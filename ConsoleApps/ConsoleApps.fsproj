@@ -6,8 +6,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Compile Include="calculator.fs" />
-    <Compile Include="palindrome.fs" />
+    <Compile Include="Calculator.fs" />
+    <Compile Include="Palindrome.fs" />
     <Compile Include="Program.fs" />
   </ItemGroup>
 
