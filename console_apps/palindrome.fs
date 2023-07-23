@@ -13,9 +13,7 @@ let check_palindrome =
         while flag = false do
             result <- if get_char data i <> get_char data c then false else true
 
-            if result = false then
-                flag <- true
-            elif i = c then
+            if result = false || i = c then
                 flag <- true
 
             i <- i + 1
