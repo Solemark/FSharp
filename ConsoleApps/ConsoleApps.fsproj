@@ -6,6 +6,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Include="FilterNegative.fs" />
+    <Compile Include="DiceRoll.fs" />
+    <Compile Include="ConvertDistance.fs" />
+    <Compile Include="Circles.fs" />
     <Compile Include="Calculator.fs" />
     <Compile Include="Palindrome.fs" />
     <Compile Include="Program.fs" />
