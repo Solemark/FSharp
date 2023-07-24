@@ -6,6 +6,8 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Include="GachaRoll.fs" />
+    <Compile Include="FizzBuzz.fs" />
     <Compile Include="FilterNegative.fs" />
     <Compile Include="DiceRoll.fs" />
     <Compile Include="ConvertDistance.fs" />
