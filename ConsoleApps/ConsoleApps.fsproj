@@ -6,6 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Include="GetDateTime.fs" />
     <Compile Include="GachaRoll.fs" />
     <Compile Include="FizzBuzz.fs" />
     <Compile Include="FilterNegative.fs" />
@@ -14,6 +15,7 @@
     <Compile Include="Circles.fs" />
     <Compile Include="Calculator.fs" />
     <Compile Include="Palindrome.fs" />
+    <Compile Include="HelloWorld.fs" />
     <Compile Include="Program.fs" />
   </ItemGroup>
 

@@ -1,4 +1,4 @@
-namespace hello_world
+namespace helloWorld
 
 module functions =
-    let greet = fun () -> "Hello World!"
+    let greet = "Hello World!"
