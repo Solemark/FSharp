@@ -1,4 +1,4 @@
-namespace palindrome
+namespace ConsoleApps.SourceCode.Palindrome
 
 module functions =
     let getChar = fun (input: char[]) (key: int) -> input[key]

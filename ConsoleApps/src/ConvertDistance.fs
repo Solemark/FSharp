@@ -1,4 +1,4 @@
-namespace convertDistance
+namespace ConsoleApps.SourceCode.ConvertDistance
 
 module functions =
     let convert =

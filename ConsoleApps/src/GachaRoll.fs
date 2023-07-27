@@ -1,4 +1,4 @@
-namespace gachaRoll
+namespace ConsoleApps.SourceCode.GachaRoll
 
 open System
 

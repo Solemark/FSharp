@@ -1,4 +1,4 @@
-namespace filterNegative
+namespace ConsoleApps.SourceCode.FilterNegatives
 
 module functions =
     let filterNegativeArray =

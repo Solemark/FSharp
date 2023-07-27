@@ -1,4 +1,4 @@
-namespace getDateTime
+namespace ConsoleApps.SourceCode.GetDateTime
 
 open System
 

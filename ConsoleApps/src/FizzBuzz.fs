@@ -1,4 +1,4 @@
-namespace fizzBuzz
+namespace ConsoleApps.SourceCode.Fizzbuzz
 
 module functions =
     let fizzbuzz =

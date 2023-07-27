@@ -1,4 +1,4 @@
-namespace calculator
+namespace ConsoleApps.SourceCode.Calculator
 
 module functions =
     let addition = fun (x: float) (y: float) -> x + y

@@ -1,4 +1,4 @@
-namespace Circles
+namespace ConsoleApps.SourceCode.Circles
 
 open System
 

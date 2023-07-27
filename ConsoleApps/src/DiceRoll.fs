@@ -1,4 +1,4 @@
-namespace diceRoll
+namespace ConsoleApps.SourceCode.DiceRoll
 
 open System
 
